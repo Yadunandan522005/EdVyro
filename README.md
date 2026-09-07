@@ -1,5 +1,5 @@
 # EdVyro
-# EdVyro Internship – Data Analytics & Machine Learning Projects
+# Data Analytics & Machine Learning Projects
 
 This repository contains the projects completed as part of my **EdVyro Internship**, covering data analysis, business intelligence, customer segmentation, and executive analytics.
 
